@@ -1,1 +1,1 @@
-# catalog-service
+# 해당 프로젝트는 스프링부트를 이용한 클라우드 네이티브 앱개발 학습 Repository입니다
